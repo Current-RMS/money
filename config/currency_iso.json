@@ -1325,7 +1325,7 @@
     "iso_code": "MAD",
     "name": "Moroccan Dirham",
     "symbol": "د.م.",
-    "alternate_symbols": [],
+    "alternate_symbols": ["MAD "],
     "subunit": "Centime",
     "subunit_to_unit": 100,
     "symbol_first": false,
