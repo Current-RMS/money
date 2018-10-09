@@ -2351,7 +2351,7 @@
     "name": "Central African Cfa Franc",
     "symbol": "Fr",
     "disambiguate_symbol": "FCFA",
-    "alternate_symbols": ["FCFA"],
+    "alternate_symbols": ["FCFA", "XAF "],
     "subunit": "Centime",
     "subunit_to_unit": 100,
     "symbol_first": false,
